@@ -3,9 +3,9 @@ import pandas as pd
 
 st.set_page_config(page_title="BBQ Dawat - FINAL", page_icon="🍖", layout="wide")
 
-ZELLE_PHONE = "412-XXX-XXXX"
-ZELLE_EMAIL = "ismail@email.com"
-ZELLE_NAME = "Ismail Bhai Mintt"
+ZELLE_PHONE = "412-294-7303"
+ZELLE_EMAIL = "xxxxxxxx"
+ZELLE_NAME = "Mohamed Hameed"
 
 st.title("🍖 BBQ Dawat - FINAL SETTLEMENT")
 st.success("✅ Grand Total: $823.14 | Per Family: $63.32 | 13 Families")
